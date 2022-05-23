@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @samu8000
+- German
+- 👀 I’m interested in Minecraft and Discord
+- 🌱 I’m currently learning Java
+- 🛡 My own Minecraftserver: IronPvP.de - German server
+- 📫 How to reach me: samu_8000#7777
